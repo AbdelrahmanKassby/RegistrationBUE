@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RegisterationForm",
+    "\\RegisterationForm\\Controllers",
+    "\\RegisterationForm\\Model"
+  ],
+  "SelectedNode": "\\RegisterationForm\\Model\\MainDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
